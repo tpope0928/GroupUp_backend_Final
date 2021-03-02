@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  genre: MyString
+  skill_level: 1
+  game_name: MyString
+  player: one
+
+two:
+  title: MyString
+  genre: MyString
+  skill_level: 1
+  game_name: MyString
+  player: two
