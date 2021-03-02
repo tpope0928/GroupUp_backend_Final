@@ -1,3 +1,4 @@
 class PlayerSerializer < ActiveModel::Serializer
-  attributes :id
+  has_many :games
+  attributes :id, :name, :city, :state
 end
